@@ -1,0 +1,489 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hi book lovers,
+my name is Meck and I run openlibrary.org
+
+2
+00:00:05,000 --> 00:00:07,000
+over at the Internet Archives.
+
+3
+00:00:07,001 --> 00:00:12,001
+For those who aren't familiar, the Internet
+Archives is a nonprofit here in San
+
+4
+00:00:12,001 --> 00:00:17,000
+Francisco, California, which is probably
+most famous for the Wayback Machine.
+
+5
+00:00:18,000 --> 00:00:23,000
+The Wayback Machine is this mind-blowing
+website that lets you go back in time
+
+6
+00:00:23,000 --> 00:00:27,000
+and see a website as it was up to 20 years ago.
+
+7
+00:00:27,000 --> 00:00:32,001
+So if I type in google.com into the
+Wayback Machine and then I go back to
+
+8
+00:00:32,001 --> 00:00:39,001
+February 1999,
+then I can see what Google used to look
+
+9
+00:00:39,001 --> 00:00:45,000
+like and things have changed
+a whole ton since then.
+
+10
+00:00:45,001 --> 00:00:57,000
+Many people don't know that in addition
+to running the Wayback Machine, the
+
+11
+00:00:57,000 --> 00:01:01,000
+Internet Archives is [...]
+has more than 4 million books that are publicly
+
+12
+00:01:01,000 --> 00:01:05,001
+accessible or that you can borrow
+directly from your computer using
+
+13
+00:01:05,001 --> 00:01:07,001
+openlibrary.org.
+
+14
+00:01:08,000 --> 00:01:10,001
+So openlibrary has more than 4 million books.
+
+15
+00:01:11,000 --> 00:01:15,000
+Some of them are publicly accessible and
+you can read them right in your browser
+
+16
+00:01:15,000 --> 00:01:19,001
+and some of them require borrowing through
+our controlled digital lending system.
+
+17
+00:01:20,001 --> 00:01:24,001
+So if you happen to see a book that
+strikes your fancy, maybe The Hitchhiker's
+
+18
+00:01:24,001 --> 00:01:29,000
+Guide to the Galaxy,
+then we can click on it and we will be brought
+
+19
+00:01:29,000 --> 00:01:31,000
+to a books page.
+
+20
+00:01:31,001 --> 00:01:35,000
+The books page will give you
+the opportunity to preview the
+
+21
+00:01:35,000 --> 00:01:36,001
+book, to borrow the book.
+
+22
+00:01:37,001 --> 00:01:41,001
+You don't need a special
+library card to read or
+
+23
+00:01:41,001 --> 00:01:43,001
+borrow a book on openlibrary.org.
+
+24
+00:01:43,001 --> 00:01:46,001
+You just need an email
+address and once you sign up,
+
+25
+00:01:46,001 --> 00:01:48,000
+you'll be able to borrow for free.
+
+26
+00:01:49,000 --> 00:01:53,000
+In this case, why don't we click on
+preview and we'll get a few pages of the
+
+27
+00:01:53,000 --> 00:01:58,000
+front matter, table of contents,
+copyright page, and also the back page.
+
+28
+00:01:59,000 --> 00:02:03,000
+And once we're confident this is the book
+that we want to borrow, we can either
+
+29
+00:02:03,000 --> 00:02:08,000
+click on the borrow button or there's also
+a listen option, which is kind of like
+
+30
+00:02:08,000 --> 00:02:15,000
+Siri, which uses your web browser's
+high-quality Google or Apple voices to
+
+31
+00:02:15,000 --> 00:02:19,001
+read the book to you as if it's an audiobook.
+So why don't we go ahead and borrow
+
+32
+00:02:19,001 --> 00:02:26,000
+the book and it should pop open the book
+reader. There's a few different ways to
+
+33
+00:02:26,000 --> 00:02:29,001
+borrow the book.
+The first one is offline reading.
+
+34
+00:02:30,000 --> 00:02:36,001
+If you click PDF or EPUB, then you're
+presented with an option to use a form of
+
+35
+00:02:36,001 --> 00:02:42,001
+protected DRM to read a PDF or EPUB
+offline for two weeks and during that time
+
+36
+00:02:42,001 --> 00:02:47,000
+you're the only person who can access the book.
+And it's done through a piece of
+
+37
+00:02:47,000 --> 00:02:48,001
+software called Adobe Digital Editions.
+
+38
+00:02:50,001 --> 00:02:59,001
+Another option that we have is using the
+read aloud feature. So why don't we flip
+
+39
+00:02:59,001 --> 00:03:03,001
+to the beginning of a chapter here and
+if you click the speaker button in the
+
+40
+00:03:03,001 --> 00:03:08,000
+lower right-hand corner of the book,
+you'll see that it activates this read aloud
+
+41
+00:03:08,000 --> 00:03:23,000
+control panel. And why don't we press
+play and see what that sounds like.
+
+42
+00:03:47,000 --> 00:03:53,001
+All right. In addition to being able to
+read offline, read normally, or also to
+
+43
+00:03:53,001 --> 00:04:00,000
+use the audio controls,
+we have a search inside feature. So if there's
+
+44
+00:04:00,000 --> 00:04:04,001
+a quote we're trying to remember from a book,
+let's see if I got it right, then
+
+45
+00:04:04,001 --> 00:04:10,001
+we should see these pins on the navigation
+bar that correlate to the matches
+
+46
+00:04:10,001 --> 00:04:15,000
+within the book. I click it and I see the
+famous so long and thanks for all the
+
+47
+00:04:15,000 --> 00:04:22,000
+fish. Now I can either click the back
+button and return to Open Library or even
+
+48
+00:04:22,000 --> 00:04:26,000
+though I have 13 days left on my loan,
+I can click return book, which I'm going
+
+49
+00:04:26,000 --> 00:04:33,000
+to do so that someone else might enjoy it.
+And once the book is returned, it will
+
+50
+00:04:33,000 --> 00:04:39,001
+bring me back to OpenLibrary.org.
+I'm presented with a Good Read style button
+
+51
+00:04:39,001 --> 00:04:44,001
+that allows me to mark this book either
+as want to read, that I've already read
+
+52
+00:04:44,001 --> 00:04:47,000
+it, or currently reading. And I'm going
+to click currently reading so that I can
+
+53
+00:04:47,000 --> 00:04:51,001
+save that in my book log.
+And I could also choose a number
+
+54
+00:04:51,001 --> 00:04:53,000
+of stars if I want to read it.
+
+55
+00:04:54,000 --> 00:04:57,001
+Up on the top of the website,
+there's a tab called My Books, which lets me
+
+56
+00:04:57,001 --> 00:05:02,000
+navigate to my loans,
+or also to see all of the books on my
+
+57
+00:05:02,000 --> 00:05:03,001
+reading log. So I'm going to click that.
+
+58
+00:05:04,000 --> 00:05:07,000
+Here I see a list of all of the
+books that are on my reading log.
+
+59
+00:05:08,001 --> 00:05:14,000
+And if I want to, I can manage the privacy
+settings and share this with a friend
+
+60
+00:05:14,000 --> 00:05:20,001
+so they can see what I'm reading.
+In some cases, you'll notice that a book
+
+61
+00:05:20,001 --> 00:05:24,001
+does not have a read or borrow button
+because it has not yet been acquired or
+
+62
+00:05:24,001 --> 00:05:28,000
+digitized. And this is where you can step in.
+
+63
+00:05:28,000 --> 00:05:33,000
+Everyone in the world has an opportunity
+to be a part of OpenLibrary and make
+
+64
+00:05:33,000 --> 00:05:37,000
+titles available by sponsoring a book.
+If you go to OpenLibrary.org slash
+
+65
+00:05:37,000 --> 00:05:41,000
+sponsorship or click this button,
+you'll be presented with information
+
+66
+00:05:41,000 --> 00:05:42,001
+on how you can sponsor a book.
+
+67
+00:05:43,000 --> 00:05:49,000
+If you look through the available titles,
+you might find that there's a book on
+
+68
+00:05:49,000 --> 00:05:54,001
+Frida and you happen to be an enthusiast
+for Mexican culture. And so if you click
+
+69
+00:05:54,001 --> 00:05:59,000
+the sponsor button, you'll be presented
+with a page where you can make a tax
+
+70
+00:05:59,000 --> 00:06:03,000
+deductible donation. Within one month,
+the book will be purchased, shipped,
+
+71
+00:06:03,000 --> 00:06:07,000
+digitized, and made available on OpenLibrary.
+org, and you'll have the opportunity
+
+72
+00:06:07,000 --> 00:06:11,001
+to be the first to borrow the book and to
+also have a message publicly display on
+
+73
+00:06:11,001 --> 00:06:18,001
+OpenLibrary.
+org as the donor should you wish to. Back on
+
+74
+00:06:18,001 --> 00:06:24,001
+OpenLibrary, you can also take advantage
+of our search functionality. So you
+
+75
+00:06:24,001 --> 00:06:31,000
+might search for a book by title
+like Gertle Escherbach, or
+
+76
+00:06:31,000 --> 00:06:33,000
+similarly, you can search by author.
+
+77
+00:06:35,001 --> 00:06:38,000
+And here you'll see all of the
+books that we have by J.K. Rowling.
+
+78
+00:06:41,001 --> 00:06:44,001
+Let's choose Harry Potter
+and the Philosopher's Stone.
+
+79
+00:06:48,001 --> 00:06:53,000
+So now we're on a works page and it shows
+all of the different editions of this
+
+80
+00:06:53,000 --> 00:06:59,001
+book that are available, from Greek to
+Russian to Chinese to Latin to Spanish and
+
+81
+00:06:59,001 --> 00:07:04,001
+even Latvian, and of course, a handful of
+books in English as well. If we select
+
+82
+00:07:04,001 --> 00:07:08,000
+one of the editions, we'll be brought
+back to the book page where we again, we
+
+83
+00:07:08,000 --> 00:07:12,000
+can preview or borrow. And if we click
+on the edition count in the upper left
+
+84
+00:07:12,000 --> 00:07:14,001
+hand corner, we'll be brought back to
+the works page. And if we click on the
+
+85
+00:07:14,001 --> 00:07:20,001
+books page, if you are a teacher or
+a parent and educator, librarian,
+
+86
+00:07:21,001 --> 00:07:27,000
+you can use the browse functionality to
+see a listing of all subjects, which span
+
+87
+00:07:27,000 --> 00:07:32,000
+fiction to nonfiction, books on science
+and mathematics, including textbooks on
+
+88
+00:07:32,000 --> 00:07:37,000
+biology, chemistry, children's books,
+stories and rhyme, picture books, bedtime
+
+89
+00:07:37,000 --> 00:07:40,001
+books, history books,
+biographies and autobiographies.
+
+90
+00:07:42,001 --> 00:07:48,001
+I hope you've enjoyed this tour of Open
+Library. Not only are we a non-profit
+
+91
+00:07:48,001 --> 00:07:54,000
+project, we're also an open source project.
+And that means over a hundred people
+
+92
+00:07:54,000 --> 00:07:59,000
+from around the world have helped contribute
+to make OpenLibrary.org the world's
+
+93
+00:07:59,000 --> 00:08:05,000
+library.
+That is Amsterdam, New Zealand, Toronto, India,
+
+94
+00:08:06,000 --> 00:08:08,001
+Massachusetts, California and beyond.
+
+95
+00:08:11,001 --> 00:08:17,001
+Especially today, as libraries and
+schools across the country and world are
+
+96
+00:08:17,001 --> 00:08:22,001
+shutting down, the Internet Archive is
+committed to making our information as
+
+97
+00:08:22,001 --> 00:08:27,000
+broadly, publicly accessible as possible.
+If you would like to contribute to
+
+98
+00:08:27,000 --> 00:08:31,001
+OpenLibrary.org or if you have any
+questions about our service, don't hesitate
+
+99
+00:08:31,001 --> 00:08:36,001
+and send me an email at mech,
+that's M-E-K at archive.org.
+
+100
+00:08:36,001 --> 00:08:42,000
+We'd be delighted to hear from you.
+Thanks for taking a look at Open Library at
+
+101
+00:08:42,000 --> 00:08:44,000
+the Internet Archives and happy reading.
+
